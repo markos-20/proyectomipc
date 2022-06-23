@@ -1,0 +1,21 @@
+.envios{
+    background-color: rgb(201, 0, 0);
+}
+.barra{
+    background-color: rgb(247, 1, 1);
+    
+}
+
+#laptops1  {
+    display: none;
+}
+
+#pantalla1{
+    display:  none;
+
+}
+
+#gamer1{
+    display: none;
+}
+
